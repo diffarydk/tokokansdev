@@ -1,0 +1,2 @@
+# tokokansdev
+db = tokokansdev.sql
